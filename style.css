@@ -1,0 +1,86 @@
+
+html {
+    background:  #009688;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+legend {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+ 
+ol {
+	display: table;
+	margin-right: auto;
+	margin-left: auto;
+	align-items: center;		
+}
+
+
+ol li > a{
+	color: blue;
+	
+}
+
+ol li > a:hover{
+	background: rgb(231, 62, 19);
+	
+}
+
+
+body {
+    margin: 50px;
+    border: 1px solid black;
+    padding: 15px;
+    background: url(./Imagenes/fondorosa.jpg);
+    border-radius: 5%;
+    border: 0;   
+    font-size: 18px;
+    font-family:cursive;
+}
+
+p {
+    
+    text-align: justify;
+
+}
+
+button {
+    
+    background-color: rgba(60, 216, 55, 0.685);
+    height: 25px;
+    width: auto;
+    border-radius: 10px;
+    border: 1px solid blue;
+    
+}
+
+span {
+    font-size: small;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;    
+}
+
+a {
+    text-decoration: none;    
+}
+
+a:hover {
+  text-decoration: underline;
+  text-transform: uppercase;  
+}
+
+
+
+	
+
+
+
+  
+	
+
